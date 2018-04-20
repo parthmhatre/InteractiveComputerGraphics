@@ -1,0 +1,8 @@
+README
+> This program should be tested on Linux(Tux)
+> To run your program go into the directory where you have unzipped the folder i.e pdm73_a1.rar in tux
+> The make command will generate an execuatable file red_triangle
+> Run the executable file that displays the blue square i.e. red_triangle
+> I made a couple of changes to the program. I changed the colour from red to blue by changing the colour value that was (1.0, 0.0, 0.0, 1.0 ) to (0.0, 0.0, 1.0, 1.0) in the "fshader21.glsl" file
+> Earlier we just displayed one triangle but now I modified it in such a way that it displays two blue coloured right angled triangles that form a square. I modified the NumPoints values from 3 to 6 as we now have 2 triangles. 
+> We can quit the program by just pressing 'q'

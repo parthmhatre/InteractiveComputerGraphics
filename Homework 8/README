@@ -1,0 +1,6 @@
+README
+> This program should be tested on Linux(Tux)
+> Download and unzip file pdm73_a8.zip
+> To run your program go into the directory where you will find the assignment where you have unzipped the folder i.e pdm73_a8.zip in tux
+> The make command will generate an execuatable file assign_8
+> Run the executable file that displays the window result i.e. assign_8

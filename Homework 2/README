@@ -1,0 +1,7 @@
+README
+> This program should be tested on Linux(Tux)
+> To run your program go into the directory where you will find 2 folders consisting of part 1 and part 2 of the assignment in the directory where you have unzipped the folder i.e pdm73_a2.rar in tux
+> The make command will generate an execuatable file assign_2
+> Run the executable file that displays the assignment 2 result i.e. assign_2 
+> Part 2 will have a semi circle, rhombus/diamond and a house.
+> We can quit the program by just pressing 'q'

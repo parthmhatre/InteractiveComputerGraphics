@@ -1,0 +1,7 @@
+README
+> This program should be tested on Linux(Tux)
+> Download and unzip file pdm73_a3.zip
+> To run your program go into the directory where you will find the assignment where you have unzipped the folder i.e pdm73_a3.zip in tux
+> The make command will generate an execuatable file assign_3
+> Run the executable file that displays the 2 windows result i.e. assign_3
+> We can quit the program by just pressing 'q'
